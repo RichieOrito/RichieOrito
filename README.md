@@ -14,19 +14,18 @@
 
 ``` Javascript
 const Developer = { 
-    name: 'George',
-    surname : 'Chakama', 
+    name: 'Orito',
     age: 20+,
     hobbies : {
-        Summer :'Travelling',
-	Autumn :'Fixing grandmas WIFI',
-	Spring :'Doing just one small favor',
-	Winter :'Being up all Night chasing that ONE BUG...'
+        General :'Health & Fitness',
+	Sports :'Football',
+	Dreams :'Travelling the World',
+	usedTo :'Being up all Night chasing that ONE BUG...'
     }, 
     goals : [
-         "Become a FullStack Dev", 
-	 "Create dating App that matches people with their Browser history", 
-	 "Do-100-TypeScript-Projects", 
+         "Become a FullStack WebDeveloper", 
+	 "Create A humanitarian Aid web app", 
+	 "Do-100-Javascript/TypeScript-Projects", 
 	 "Ask me for more of my goals 👨🏼‍💻", 
 	] 
 }
