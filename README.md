@@ -10,8 +10,27 @@
 - ⚡ Fun fact: Living healthy is an art
 
 
-| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RichieOrito&theme=tokyonight&&count_private=true&show_icons=true)   	|  ![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=RichieOrito&layout=compact&count_private=true&show_icons=true&langs_count=10&theme=tokyonight)  	|
-|---	|---	|
+## My Profile. 
+
+``` Javascript
+const Developer = { 
+    name: 'George',
+    surname : 'Chakama', 
+    age: 20+,
+    hobbies : {
+        Summer :'Travelling',
+	Autumn :'Fixing grandmas WIFI',
+	Spring :'Doing just one small favor',
+	Winter :'Being up all Night chasing that ONE BUG...'
+    }, 
+    goals : [
+         "Become a FullStack Dev", 
+	 "Create dating App that matches people with their Browser history", 
+	 "Do-100-TypeScript-Projects", 
+	 "Ask me for more of my goals 👨🏼‍💻", 
+	] 
+}
+```
 #
 [![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>](https://www.linkedin.com/in/richie-orito/)
 
