@@ -15,18 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 const Developer = { 
-    name: 'Orito',
+    name: 'George',
+    surname : 'Chakama', 
     age: 20+,
     hobbies : {
-  Health :'Working out',
-	Social :'Meeting new developers and trying to share ideas and teach each other one or two things',
-	Eats :'Trying to improve my diet and trying out new nutritions',
-	Activities :'Being up all Night chasing that ONE BUG.'
+        Summer :'Travelling',
+	Autumn :'Fixing grandmas WIFI',
+	Spring :'Doing just one small favor',
+	Winter :'Being up all Night chasing that ONE BUG...'
     }, 
     goals : [
-         "To Become a FullStack WebDeveloper", 
-	 "Developing a humanitarian Aid that shows awareness about Poverty",
-   "Building a Gift app that brings creators,vendors and customers to one place"
+         "Become a FullStack Dev", 
+	 "Create dating App that matches people with their Browser history", 
+	 "Do-100-TypeScript-Projects", 
 	 "Ask me for more of my goals 👨🏼‍💻", 
 	] 
 }
