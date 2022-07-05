@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about anything related with technology
 - 📫 How to reach me: oritorichie2@gmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: Living healthy is an art
 
 
