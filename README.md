@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about anything related with technology
 - 📫 How to reach me: oritorichie2@gmail.com
-- ⚡ Fun fact: Living healthy is an art
+- ⚡ Fun fact: Living healthy is an art you should try it.
 
 
 ## My Profile. 
