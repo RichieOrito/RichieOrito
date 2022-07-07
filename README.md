@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Humanitarian Poverty Web App
-- 🌱 I’m currently learning Javascript/Typescript/React/Java/Kotlin
+- 🌱 I’m currently learning Javascript/Typescript/React/Kotlin
 - 👯 I’m looking to collaborate on Anything that is out there to improve on human lives
 - 🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about anything related with technology
