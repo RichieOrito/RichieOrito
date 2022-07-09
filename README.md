@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Humanitarian Poverty Web App
-- 🌱 I’m currently learning Javascript/Typescript/React/Kotlin/Android Development
-- 👯 I’m looking to collaborate on Anything that is out there to improve on human lives
-- 🤔 I’m looking for help with Competitive Programming
-- 💬 Ask me about anything related with technology
+- 🔭 I’m currently working on a Humanitarian Poverty Web App.
+- 🌱 I’m currently learning Javascript/Typescript/React/Kotlin/Android Development.
+- 👯 I’m looking to collaborate on Anything that is out there to improve on human lives.
+- 🤔 I’m looking for help with Competitive Programming.
+- 💬 Ask me about anything related with technology.
 - 📫 How to reach me: oritorichie2@gmail.com
 - ⚡ Fun fact: Living healthy is an art you should try it.
 
