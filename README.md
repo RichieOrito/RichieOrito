@@ -8,7 +8,6 @@
 - 📫 How to reach me: oritorichie2@gmail.com
 - ⚡ Fun fact: Living healthy is an art you should try it.
 
-
 ## My Profile. 
 
 ``` Javascript
