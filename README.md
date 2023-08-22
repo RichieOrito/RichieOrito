@@ -11,22 +11,23 @@
 ## My Profile. 
 
 ``` Javascript
-const Developer = { 
+const Developer = {
     name: 'Orito',
-    age: 20+,
-    hobbies : {
-        General :'Health & Fitness',
-	Sports :'Football',
-	Dreams :'Travelling the World',
-	usedTo :'Being up all Night chasing that ONE BUG...'
-    }, 
-    goals : [
-         "Become a FullStack WebDeveloper", 
-	 "Create A humanitarian Aid web app", 
-	 "Do-100-Javascript/TypeScript-Projects", 
-	 "Ask me for more of my goals 👨🏼‍💻", 
-	] 
-}
+    age: 20,
+    hobbies: {
+        General: 'Health & Fitness',
+        Sports: 'Football',
+        Dreams: 'Travelling the World',
+        usedTo: 'Being up all Night chasing that ONE BUG...'
+    },
+    goals: [
+        "Become a FullStack Web Developer",
+        "Create a Humanitarian Aid web app",
+        "Complete 100 JavaScript/TypeScript Projects",
+        "Ask me for more of my goals 👨🏼‍💻"
+    ]
+};
+
 ```
 #
 [![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>](https://www.linkedin.com/in/richie-orito/)
