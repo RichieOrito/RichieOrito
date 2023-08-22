@@ -11,22 +11,36 @@
 ## My Profile. 
 
 ``` Javascript
+
+// Developer Information Object
 const Developer = {
     name: 'Orito',
     age: 20,
     hobbies: {
-        General: 'Health & Fitness',
-        Sports: 'Football',
-        Dreams: 'Travelling the World',
+        general: 'Health & Fitness',
+        sports: 'Football',
+        dreams: 'Travelling the World',
         usedTo: 'Being up all Night chasing that ONE BUG...'
     },
     goals: [
-        "Become a FullStack Web Developer",
-        "Create a Humanitarian Aid web app",
-        "Complete 100 JavaScript/TypeScript Projects",
-        "Ask me for more of my goals 👨🏼‍💻"
+        "🚀 Become a FullStack Web Developer",
+        "🌍 Create a Humanitarian Aid Web App",
+        "💡 Complete 100 JavaScript/TypeScript Projects",
+        "👨🏼‍💻 Ask me for more of my goals!"
     ]
 };
+
+// Output Developer Information
+console.log(`Name: ${Developer.name}`);
+console.log(`Age: ${Developer.age}`);
+console.log('Hobbies:');
+for (const key in Developer.hobbies) {
+    console.log(`  ${key}: ${Developer.hobbies[key]}`);
+}
+console.log('Goals:');
+Developer.goals.forEach((goal, index) => {
+    console.log(`  ${index + 1}. ${goal}`);
+});
 
 ```
 #
