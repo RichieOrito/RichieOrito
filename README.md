@@ -10,37 +10,49 @@
 
 ## My Profile. 
 
-``` Javascript
+``` Java
 
 // Developer Information Object
-const Developer = {
-    name: 'Orito',
-    age: 20,
-    hobbies: {
-        general: 'Health & Fitness',
-        sports: 'Football',
-        dreams: 'Travelling the World',
-        usedTo: 'Being up all Night chasing that ONE BUG...'
-    },
-    goals: [
-        "🚀 Become a FullStack Web Developer",
-        "🌍 Create a Humanitarian Aid Web App",
-        "💡 Complete 100 JavaScript/TypeScript Projects",
-        "👨🏼‍💻 Ask me for more of my goals!"
-    ]
-};
+import java.util.HashMap;
+import java.util.Map;
 
-// Output Developer Information
-console.log(`Name: ${Developer.name}`);
-console.log(`Age: ${Developer.age}`);
-console.log('Hobbies:');
-for (const key in Developer.hobbies) {
-    console.log(`  ${key}: ${Developer.hobbies[key]}`);
+public class DeveloperInfo {
+    public static void main(String[] args) {
+        // Developer Information Object
+        Map<String, Object> developer = new HashMap<>();
+        developer.put("name", "Orito");
+        developer.put("age", 20);
+
+        Map<String, String> hobbies = new HashMap<>();
+        hobbies.put("general", "Health & Fitness");
+        hobbies.put("sports", "Football");
+        hobbies.put("dreams", "Travelling the World");
+        hobbies.put("usedTo", "Being up all Night chasing that ONE BUG...");
+        developer.put("hobbies", hobbies);
+
+        String[] goals = {
+            "🚀 Become a FullStack Web Developer",
+            "🌍 Create a Humanitarian Aid Web App",
+            "💡 Complete 100 JavaScript/TypeScript Projects",
+            "👨🏼‍💻 Ask me for more of my goals!"
+        };
+        developer.put("goals", goals);
+
+        // Output Developer Information
+        System.out.println("Name: " + developer.get("name"));
+        System.out.println("Age: " + developer.get("age"));
+        System.out.println("Hobbies:");
+        Map<String, String> hobbiesMap = (Map<String, String>) developer.get("hobbies");
+        for (Map.Entry<String, String> entry : hobbiesMap.entrySet()) {
+            System.out.println("  " + entry.getKey() + ": " + entry.getValue());
+        }
+        System.out.println("Goals:");
+        String[] goalsArray = (String[]) developer.get("goals");
+        for (int i = 0; i < goalsArray.length; i++) {
+            System.out.println("  " + (i + 1) + ". " + goalsArray[i]);
+        }
+    }
 }
-console.log('Goals:');
-Developer.goals.forEach((goal, index) => {
-    console.log(`  ${index + 1}. ${goal}`);
-});
 
 ```
 #
